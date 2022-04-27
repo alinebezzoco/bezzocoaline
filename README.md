@@ -9,16 +9,18 @@ Carioca formada em Design Gráfico pela Estácio com pós em Marketing e Design 
 
 Criadora do app "Tá tudo bem?", do MyDodo (Chrome Extension), da API The Black Women History e da newsletter Torrada de Abacate  
 
-Ofereço mentorias gratuitas de front-end para pessoas iniciantes: [calendly.com/alinebezzoco/mentorias](https://calendly.com/alinebezzoco/mentorias) </div>  
+Ofereço mentorias gratuitas de front-end para pessoas iniciantes: [calendly.com/alinebezzoco/mentorias](https://calendly.com/alinebezzoco/mentorias) 
+
+Assine minha newsletter: [https://www.getrevue.co/profile/alinebezzoco?via=twitter-profile](https://www.getrevue.co/profile/alinebezzoco?via=twitter-profile)
+</div>  
   
 
 - ⚡ Fun fact: também sou aromaterapeuta!   
   
-
 <br/>  
 
-
 ## Skills 
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -70,8 +72,6 @@ Ofereço mentorias gratuitas de front-end para pessoas iniciantes: [calendly.com
 
 <br/>  
 
-
-
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Um breve comentário sobre layer&lpar;&rpar; e camadas em cascata](https://dev.to/alinebezzoco/um-breve-comentario-sobre-layer-e-camadas-em-cascata-cen)
@@ -83,25 +83,11 @@ Ofereço mentorias gratuitas de front-end para pessoas iniciantes: [calendly.com
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=bezzocoaline&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/bezzocoaline" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/bezzocoaline" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="center" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=bezzocoaline&&style=flat-square" align="center" />
+</div>
