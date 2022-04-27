@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/exe8EIO.jpeg" align="center" style="width: 680px" />
+<img src="https://i.imgur.com/exe8EIO.jpeg" align="center" style="width: 480px" />
 </div>  
   
 
@@ -19,8 +19,6 @@ Ofereço mentorias gratuitas de front-end para pessoas iniciantes: [calendly.com
 
 
 ## Skills 
-<table><tr><td valign="top" width="100%">
-
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -50,8 +48,6 @@ Ofereço mentorias gratuitas de front-end para pessoas iniciantes: [calendly.com
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
-</td></tr></table>  
-
 <br/>  
 
 
@@ -78,7 +74,6 @@ Ofereço mentorias gratuitas de front-end para pessoas iniciantes: [calendly.com
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
