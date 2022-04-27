@@ -14,3 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: alinebezzoco/blog-post-workflow@master
         with:
+          feed_list: "https://dev.to/feed/bezzocoaline"
+
