@@ -73,7 +73,12 @@ Ofereço mentorias gratuitas de front-end para pessoas iniciantes: [calendly.com
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [Um breve comentário sobre layer&lpar;&rpar; e camadas em cascata](https://dev.to/alinebezzoco/um-breve-comentario-sobre-layer-e-camadas-em-cascata-cen)
+- [Como resolver problemas de versionamento dos pacotes no Lerna](https://dev.to/alinebezzoco/como-resolver-problemas-de-versionamento-dos-pacotes-no-lerna-5g1e)
+- [Drops: Vue 2.x e o Typescript &lpar;e como solucionar os erros de retorno&rpar;](https://dev.to/alinebezzoco/drops-vue-2x-e-o-typescript-e-como-solucionar-os-erros-de-retorno-i5m)
+- [Object-fit: o que é, pra que serve, como usar](https://dev.to/alinebezzoco/object-fit-o-que-e-pra-que-serve-como-usar-5g2a)
+- [Trabalhando com datas e substituindo o Moment.JS](https://dev.to/alinebezzoco/trabalhando-com-datas-e-substituindo-o-moment-js-blb)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
